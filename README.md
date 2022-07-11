@@ -12,3 +12,5 @@ You can get more information at [smartbch.org](https://smartbch.org).
 ### Docker quick start
 
 One of the quickest ways to get your smartBCH node up and running is by using Docker, please follow the instructions at [here](https://docs.smartbch.org/smartbch/mainnet#docker).
+
+A special thanks to modenero for helping me get this up and running. 
